@@ -12,6 +12,7 @@ Hello, This is **python** script for converting images.
 ## How to use
 
 > [imageConverter.py](https://github.com/Anonster/pythonImageConverter/blob/master/imageConverter.py) input_folder out_folder img_format
+
 > Eg. imageConverter.py images new png
 
 **images format can by png, tiff, jpeg, ...**
